@@ -1,7 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 
 function Filter({ onCategoryChange, search, onSearchChange }) {
-  
+ 
   return (
     <div className="Filter">
       <input 

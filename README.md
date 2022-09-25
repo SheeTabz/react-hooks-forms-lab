@@ -81,7 +81,7 @@ and added to our list of items.
 
   ```jsx
   function addElement(element) {
-    setArray([...array, element]);
+    setArray([...array, elem]);
   }
   ```
 
